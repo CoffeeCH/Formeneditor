@@ -1,5 +1,5 @@
 # Formeneditor
-Formeneditor is a simple Editor-Window where you can draw forms.
+Formeneditor is a simple Editor-Window where you can draw forms.   It's a little bit like Windows Paint, but you can't yet draw things.
 Following forms are implemented:
 * __circle__
 * __ellipse__
