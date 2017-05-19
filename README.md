@@ -6,15 +6,15 @@ Following forms are implemented:
 * __rectangle__ 
 * __quadrangle / square__
 * __triangle__
-* __line __
+* __line__
 
 With these forms you can do simple things such as:
 * __move__
 * __enlarge__ 
 * __shrink __
 * __duplicate__
-* __delete __
-* __save (csv- or txt-File) __
-* __open (csv- or txt-File) __
-* __change color __
-* __(rotate) --> not yet implemented in all forms __
+* __delete__
+* __save (csv- or txt-File)__
+* __open (csv- or txt-File)__
+* __change color__
+* __(rotate) --> not yet implemented in all forms__
