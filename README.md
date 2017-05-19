@@ -11,7 +11,7 @@ Following forms are implemented:
 With these forms you can do simple things such as:
 * __move__
 * __enlarge__ 
-* __shrink __
+* __shrink__
 * __duplicate__
 * __delete__
 * __save (csv- or txt-File)__
