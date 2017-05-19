@@ -1,20 +1,20 @@
 # Formeneditor
 Formeneditor is a simple Editor-Window where you can draw forms.
 Following forms are implemented:
-* __- circle__
-* - ellipse 
-* - rectangle 
-* - quadrangle / square 
-* - triangle 
-* - line __
+* __circle__
+* __ellipse__
+* __rectangle__ 
+* __quadrangle / square__
+* __triangle__
+* __line __
 
 With these forms you can do simple things such as:
-* __- move 
-* - enlarge 
-* - shrink 
-* - duplicate 
-* - delete 
-* - save (csv- or txt-File) 
-* - open (csv- or txt-File) 
-* - change color 
-* - (rotate) --> not yet implemented in all forms __
+* __move__
+* __enlarge__ 
+* __shrink __
+* __duplicate__
+* __delete __
+* __save (csv- or txt-File) __
+* __open (csv- or txt-File) __
+* __change color __
+* __(rotate) --> not yet implemented in all forms __
