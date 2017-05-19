@@ -1,7 +1,7 @@
 # Formeneditor
 Formeneditor is a simple Editor-Window where you can draw forms.
 Following forms are implemented:
-* **- circle **
+** * - circle **
 * **- ellipse **
 * **- rectangle **
 * **- quadrangle / square **
